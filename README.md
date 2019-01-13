@@ -1,6 +1,7 @@
 # Node.js Hello World
 
 This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
+The sample node.js app i 'm working on here can be reached by clicking this link [arafatapp](http://arafatapp.azurewebsites.net/)
 
 # Contributing
 
